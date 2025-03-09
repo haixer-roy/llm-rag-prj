@@ -1,6 +1,9 @@
 # basic_data_types.py
 # 파이썬 기본 자료형과 연산 예제
 
+
+# git add .
+
 # 숫자형 (Numbers)
 print("===== 숫자형 =====")
 a = 10
